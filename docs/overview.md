@@ -31,6 +31,9 @@ custom_edit_url: https://github.com/visiont3lab/documentation/edit/master/docs/o
 - [Damage Detector](https://github.com/nicolasmetallo/car-damage-detector) [_comment_]  
 - [Data_Science_Application](https://techvidvan.com/tutorials/data-science-applications/) [_comment_]  
 
+## Tools:
+- [schedule-operations](https://github.com/alseambusher/crontab-ui) [_comment_]  
+
 ## Stock Prediction:
 https://colab.research.google.com/github/Vjais/Deep-Learning-projects/blob/master/Stock_prediction_on_microsoft_data_using_tensorflow.ipynb#scrollTo=pej8n7mDsTM5
 
